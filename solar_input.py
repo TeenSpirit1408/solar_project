@@ -1,5 +1,5 @@
 # coding: utf-8
-# license: GPLv3
+# license: GPLv3   prarparpap
 
 from solar_objects import Star, Planet
 
